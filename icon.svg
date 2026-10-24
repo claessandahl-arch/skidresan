@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e5bb8"/><stop offset="1" stop-color="#0a2a66"/></linearGradient>
+<linearGradient id="m1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3f7fd6"/><stop offset="1" stop-color="#14408f"/></linearGradient>
+<linearGradient id="m2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5b97e6"/><stop offset="1" stop-color="#1d4fa3"/></linearGradient>
+</defs>
+<rect width="512" height="512" fill="url(#sky)"/>
+<circle cx="378" cy="138" r="38" fill="#ffffff" opacity=".92"/>
+<path d="M-10 420 L150 210 L230 300 L330 160 L522 420 Z" fill="url(#m1)"/>
+<path d="M150 210 L188 260 L170 252 L150 270 L130 252 L113 258 Z" fill="#fff"/>
+<path d="M330 160 L382 230 L360 220 L340 240 L318 222 L296 232 L282 222 Z" fill="#fff"/>
+<path d="M-10 512 L-10 400 Q256 330 522 410 L522 512 Z" fill="#eef5ff"/>
+<path d="M60 470 Q230 395 470 430" stroke="#9cc0ee" stroke-width="10" fill="none" stroke-linecap="round" stroke-dasharray="1 26"/>
+</svg>
